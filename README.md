@@ -65,7 +65,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" alt="callofdev's Github Stats" src="https://github-readme-stats.callofdev.vercel.app/api?username=callofdev-official&show_icons=true&hide_border=true" />
+  <img align="left" alt="callofdev's Github Stats" src="https://github-readme-stats.codeSTACKr.vercel.app/api?username=callofdev-official&show_icons=true&hide_border=true" />
 
 [website]: https://callofdev.com
 [twitter]: https://twitter.com/callofdev
