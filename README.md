@@ -44,12 +44,12 @@
 
 <!--
 ### 📕 Latest Blog Posts
-- [Microinteractions: Password Validation Animation](https://dev.to/callofdev/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/callofdev/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/callofdev/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/callofdev/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/callofdev/deno-1-0-released-easy-rest-api-example-2fbl)
-➡️ [more blog posts...](https://callofdev.com)
+- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+➡️ [more blog posts...](https://codestackr.com)
 -->
 
 <!--START_SECTION:activity-->
@@ -65,7 +65,7 @@
 
 ### :zap: Github Stats
 
-  <img align="left" alt="callofdev's Github Stats" src="https://github-readme-stats.codeSTACKr.vercel.app/api?username=callofdev-official&show_icons=true&hide_border=true" />
+  <img align="left" alt="callofdev's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=callofdev-official&show_icons=true&hide_border=true" />
 
 [website]: https://callofdev.com
 [twitter]: https://twitter.com/callofdev
@@ -75,6 +75,6 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<!--[youtube]: https://youtube.com/callofdev
-[instagram]: https://instagram.com/callofdev
+<!--[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
 -->
