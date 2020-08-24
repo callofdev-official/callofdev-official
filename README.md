@@ -1,6 +1,6 @@
 ### Hi there, Welcome to [callofdev][website] repo👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://callofdev.com)
+[![Website](https://img.shields.io/website?label=callofdev.com&style=for-the-badge&url=https%3A%2F%2Fcallofdev.com)](https://callofdev.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/callofdev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcallofdev&screen_name=callofdev)
 
 ## We are a team of passionate developers!
@@ -62,12 +62,10 @@
 </details-->
 <!--END_SECTION:activity-->
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### :zap: Github Stats
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=callofdev-official&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://callofdev.com
 [twitter]: https://twitter.com/callofdev
